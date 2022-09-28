@@ -11,7 +11,7 @@ import "./home.css";
 export const Home = () => {
   return (
     <div id="home">
-      <h1>SE INSCREVA E ENCONTRE O AMOR DA SUA VIDA!</h1>
+      <h1>VIVA O AMOR DO JEITO MAIS LINDO: <br /> O SEU!</h1>
       <br />
       <br />
       <img className="pombinhos" src={aj} alt="ff" />

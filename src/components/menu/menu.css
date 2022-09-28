@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(90deg, rgb(165, 41, 98), #f2b6d1) ;
+}
+header{
+    height: 150px;
+    background:linear-gradient(2deg, rgb(165, 41, 98), #f2b6d1) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     border-style: groove ;
+     border-color:rgb(165, 41, 98) ;
+     display: flex; ;
+}
+.lologo{
+    width: 200px;
+}
+
+
+.Menu ul li{
+    display: inline;
+    padding: 25px;
+    border-style: dotted;
+    border-color: rgb(165, 41, 98);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+.Menu ul li a{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    position: relative;
+    text-decoration: none;
+    text-decoration-line: none;
+    padding-left: 30px;
+    justify-content: space-between;
+    
+    
+}

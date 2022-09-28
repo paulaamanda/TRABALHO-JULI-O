@@ -1,0 +1,15 @@
+
+
+h1{
+    font-size:50px;
+    background:linear-gradient(2deg, rgb(165, 41, 98), #f2b6d1) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.amor{
+   width: 400px; 
+   transform: translateX(870px);
+}

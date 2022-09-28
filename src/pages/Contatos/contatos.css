@@ -1,0 +1,24 @@
+.bordinha {
+  width: calc(100% - 17%); 
+display: flex;  
+justify-content: flex-start;
+padding-left: 15%;
+  border: none;
+  /* padding-left: 800px;
+  padding-right: 750px; */
+  padding-top: 150px;
+}
+
+.formin{
+    max-width: 500px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    border: 5px ridge;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bordinha img{
+  padding-right: 10px;
+}
